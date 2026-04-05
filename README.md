@@ -44,7 +44,7 @@ Copy this skill into your Claude Code skills directory:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/orthogonal-audit.git
+git clone https://github.com/tennyson-mccalla/orthogonal-audit.git
 
 # Copy to your Claude Code skills directory
 cp -r orthogonal-audit ~/.claude/skills/orthogonal-audit
@@ -53,7 +53,7 @@ cp -r orthogonal-audit ~/.claude/skills/orthogonal-audit
 Or if you prefer a one-liner:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/orthogonal-audit.git ~/.claude/skills/orthogonal-audit
+git clone https://github.com/tennyson-mccalla/orthogonal-audit.git ~/.claude/skills/orthogonal-audit
 ```
 
 ## Usage
